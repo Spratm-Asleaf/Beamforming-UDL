@@ -10,7 +10,7 @@
 
 Online supplementary materials of the paper titled 
 
-**Robust Beamforming and Its Application in High-Resolution DoA Estimation**
+**Robust Beamforming with Application in High-Resolution Sensing**
 
 Under Submission: 
    
