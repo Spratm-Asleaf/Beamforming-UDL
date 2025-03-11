@@ -6,11 +6,11 @@
 
 > MATLAB Version: 2023B or later
 
-# Beamforming-DoA: Robust Beamforming for DoA Estimation
+# Beamforming-UDL: Robust Beamforming with Unbalanced Diagonal Loading (UDL)
 
 Online supplementary materials of the paper titled 
 
-**Robust Beamforming with Application in High-Resolution Sensing**
+**Distributionally Robust Adaptive Beamforming**
 
 Under Submission: 
    
