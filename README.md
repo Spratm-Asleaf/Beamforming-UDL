@@ -12,7 +12,7 @@ Online supplementary materials of the paper titled
 
 **Distributionally Robust Adaptive Beamforming**
 
-(Under Submission; NB: $\textcolor{red}{\text{the codes here are NOT associated with the preprint version at}}$ https://arxiv.org/abs/2411.06564)
+(Under Submission; NB: $\textcolor{red}{\text{the codes here are NOT associated with the preprint version at}}$ [arXiv: 2411.06564](https://arxiv.org/abs/2411.06564))
 
 By Shixiong Wang, Wei Dai, and Geoffrey Ye Li
 
