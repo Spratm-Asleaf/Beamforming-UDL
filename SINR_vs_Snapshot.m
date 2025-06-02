@@ -112,7 +112,7 @@ for i = 1:SnapshotLength
         SINR_Capon(mc, i)  = GetSINR(w_Capon, stVec0, Ripn0, Ps(1));
        
         % Diagonally-Loaded (DL) Capon with assumed steer vector and estimated data covariacne
-        epsilon = 1;
+        epsilon = 0.1;
         w_Capon_DL = (((Rx + epsilon * eye(N))^-1)*stVec)/(stVec'*((Rx + epsilon * eye(N))^-1)*stVec);
         SINR_Capon_DL(mc, i) = GetSINR(w_Capon_DL, stVec0, Ripn0, Ps(1));
     end
