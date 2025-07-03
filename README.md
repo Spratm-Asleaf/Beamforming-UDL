@@ -12,7 +12,7 @@ Online supplementary materials of the paper titled
 
 **Distributionally Robust Adaptive Beamforming**
 
-in the _IEEE Transactions on Signal Processing_ (AQ: Minor Revision)
+in the _IEEE Transactions on Signal Processing_ ([ArXiv Version](https://arxiv.org/abs/2411.06564))
 
 By Shixiong Wang, Wei Dai, and Geoffrey Ye Li
 
